@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ankush
+Skills: HTML, CSS, JS, Next.js
+Email: ankushnitjsr@gmail.com
+{{/user}}
